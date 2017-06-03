@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		947274641EE2B80B0083D3F4 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 947274631EE2B80B0083D3F4 /* level2.txt */; };
 		94E0E49A1ED820AC008EF009 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E0E4991ED820AC008EF009 /* AppDelegate.swift */; };
 		94E0E49C1ED820AC008EF009 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E0E49B1ED820AC008EF009 /* ViewController.swift */; };
 		94E0E49F1ED820AC008EF009 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94E0E49D1ED820AC008EF009 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		947274631EE2B80B0083D3F4 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 		94E0E4961ED820AC008EF009 /* Project8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94E0E4991ED820AC008EF009 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94E0E49B1ED820AC008EF009 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				94E0E4A21ED820AC008EF009 /* LaunchScreen.storyboard */,
 				94E0E4A51ED820AC008EF009 /* Info.plist */,
 				94E0E4AB1ED82823008EF009 /* level1.txt */,
+				947274631EE2B80B0083D3F4 /* level2.txt */,
 			);
 			path = Project8;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				947274641EE2B80B0083D3F4 /* level2.txt in Resources */,
 				94E0E4A41ED820AC008EF009 /* LaunchScreen.storyboard in Resources */,
 				94E0E4AC1ED82823008EF009 /* level1.txt in Resources */,
 				94E0E4A11ED820AC008EF009 /* Assets.xcassets in Resources */,
